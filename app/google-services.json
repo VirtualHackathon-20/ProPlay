@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307183951840",
+    "firebase_url": "https://proplay1-a9a8b.firebaseio.com",
+    "project_id": "proplay1-a9a8b",
+    "storage_bucket": "proplay1-a9a8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307183951840:android:826ba571b559d76d5ed585",
+        "android_client_info": {
+          "package_name": "com.example.proplay1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307183951840-536btdk6orjdsk109a3iij39shvhrsla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proplay1",
+            "certificate_hash": "a72a8e8e2eb9050647a1de433a460dd25af6175d"
+          }
+        },
+        {
+          "client_id": "307183951840-428i942r4ojpildvt8sq9av3cb6nrfno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3j7zW6rf2vS81NetSD6h9kWR8j05N3fg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307183951840-428i942r4ojpildvt8sq9av3cb6nrfno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
